@@ -1,0 +1,11 @@
+[{
+    "api_url" : "MPatelDeveloperTH/MS_Fabric/refs/heads/main/AdventureWorks_Calendar.csv",
+    "api_folder" : "calendar_data",
+    "api_file" : "AdventureWorks_Calendar.csv"
+},
+{
+    "api_url" : "MPatelDeveloperTH/MS_Fabric/refs/heads/main/AdventureWorks_Customers.csv",
+    "api_folder" : "customer_data",
+    "api_file" : "AdventureWorks_Customers.csv"
+}
+]
