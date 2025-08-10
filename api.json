@@ -7,5 +7,10 @@
     "api_url" : "MPatelDeveloperTH/MS_Fabric/refs/heads/main/AdventureWorks_Customers.csv",
     "api_folder" : "customer_data",
     "api_file" : "AdventureWorks_Customers.csv"
+},
+{
+    "api_url" : "MPatelDeveloperTH/MS_Fabric/refs/heads/main/AdventureWorks_Product_Categories.csv",
+    "api_folder" : "product_data",
+    "api_file" : "AdventureWorks_Product_Categories.csv"
 }
 ]
