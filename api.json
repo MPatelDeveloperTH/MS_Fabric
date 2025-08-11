@@ -12,5 +12,10 @@
     "api_url" : "MPatelDeveloperTH/MS_Fabric/refs/heads/main/AdventureWorks_Product_Categories.csv",
     "api_folder" : "product_data",
     "api_file" : "AdventureWorks_Product_Categories.csv"
+},
+{
+    "api_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
+    "api_folder" : "product_subcategories_data",
+    "api_file" : "AdventureWorks_PProduct_Subcategories.csv"
 }
 ]
